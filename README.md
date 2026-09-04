@@ -8,6 +8,13 @@ If you like it, plz star!
 
 
 
+## Updated notes
+
+- Numerical Analysis
+- Discrete Mathematics
+
+
+
 ## Notice
 
 - All the documents are presented in PDF format. Handwritten notes will be scanned and uploaded. If there are any unclear parts in the scanning, please feel free to contact me immediately.
