@@ -12,6 +12,8 @@ If you like it, plz star!
 
 - Numerical Analysis
 - Discrete Mathematics
+- Human Anotamy
+- Signals and Systems (chapter1-3)
 
 
 
