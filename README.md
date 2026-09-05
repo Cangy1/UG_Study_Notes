@@ -14,7 +14,7 @@ If you like it, plz star!
 - Discrete Mathematics
 - Human Anotamy
 - Signals and Systems (chapter1-3)
-- Higher Mathematics(Part II)
+- Higher Mathematics
 - Probability and Statistics
 
 
