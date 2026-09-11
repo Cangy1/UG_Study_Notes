@@ -8,16 +8,9 @@ If you like it, plz star!
 
 
 
+## NEWS
 
-
-> [!TIP]
->
-> I have added a document listing some recommended online courses link, hoping it can be helpful to everyone. 
->
-> We welcome your additions as well!
->
-> by Cangy1, 2026.9.10
-
+- 🎉 I have added a document listing some recommended online courses link, hoping it can be helpful to everyone. We welcome your additions as well! By Cangy1, 2026.9.10
 
 
 
